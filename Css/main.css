@@ -403,7 +403,9 @@ margin-left: 5px;
     }
     .cards55{
         flex-wrap: wrap;
+        width: 100% !important;
     }
+
     .section3 .container h1{
         font-size: 38px;
     }
